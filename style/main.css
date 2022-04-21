@@ -60,7 +60,7 @@ header nav a:hover{
 }
 
 .filme-principal .titulo{
-    margin-top: 15%;
+    margin-top: 35%;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
@@ -85,4 +85,12 @@ header nav a:hover{
 
 .botao i{
     margin-right: 8px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
 }
